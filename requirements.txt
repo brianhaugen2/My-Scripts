@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pandas
+matplotlib==3.0.3
+google_streetview
+pytz
